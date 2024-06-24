@@ -1,1 +1,1 @@
-# Machine-Learning-Prediction-Model-for-Leptospirosis-Disease-Using-Python-Individual-
+# Machine Learning Prediction Model for Leptospirosis Disease Using Python (Individual)
